@@ -1,0 +1,2 @@
+Gomoku is a game in which you must place 5 balls of the same color in a row in order to win the game.
+It was created as a project for "Embedded Systems" course and shown in MBED simulator. Language is C++.
